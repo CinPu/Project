@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloLayout</string>
+    <array name="fruits">
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Graph</item>
+        <item>Pineapple</item>
+    </array>
+</resources>
